@@ -1,5 +1,6 @@
 import sys
 
+print("IN YOUR FACE")
 
 def recur_factorial(n):
     """Function to return the factorial
